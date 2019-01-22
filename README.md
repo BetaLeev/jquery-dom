@@ -10,4 +10,4 @@
 
 #### 演示
 
-![演示(https://github.com/BetaLeev/readme-project-gif/blob/master/jquery-pos.gif)]
+![演示](https://github.com/BetaLeev/readme-project-gif/blob/master/jquery-pos.gif)
