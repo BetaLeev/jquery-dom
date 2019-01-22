@@ -7,3 +7,7 @@
 - jquery实现点餐
 - 用异步处理json数据
 - 动画库，animated
+
+#### 演示
+
+![演示(https://github.com/BetaLeev/readme-project-gif/blob/master/jquery-pos.gif)]
